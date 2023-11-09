@@ -31,7 +31,7 @@ Creating a new column called Occupancy Percentage
 # What is the average occupancy rate in each of room category?
 <img width="940" alt="image" src="https://github.com/sophiarani-c/Hotel-Analysis-with-Python/assets/149110280/f3053bfa-7983-4c92-ad46-5d0ec7f0952f">
 
-# Print average occupancy rate per city
+# Average occupancy rate per city
 <img width="925" alt="image" src="https://github.com/sophiarani-c/Hotel-Analysis-with-Python/assets/149110280/09231679-c944-4119-859b-31cab3af940b">
 
 # When was occupancy better? Weekday or Weekend?
@@ -40,7 +40,7 @@ Creating a new column called Occupancy Percentage
 # In month of June what is the occupancy for different cities
 <img width="931" alt="image" src="https://github.com/sophiarani-c/Hotel-Analysis-with-Python/assets/149110280/b6732e16-6207-40df-bbc1-c39c659a4a57">
 
-# Print revenue realized per city
+# Revenue realized per city
 
 <img width="931" alt="image" src="https://github.com/sophiarani-c/Hotel-Analysis-with-Python/assets/149110280/4b8d4c02-c619-4908-8843-08b410b3f8e7">
 
