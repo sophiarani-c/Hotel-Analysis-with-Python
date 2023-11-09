@@ -19,6 +19,7 @@ Exploring Hotels in Different Cities
 # Data Cleaning
 No of Guests cannot be in negative value
 <img width="935" alt="image" src="https://github.com/sophiarani-c/Hotel-Analysis-with-Python/assets/149110280/1c11e125-b4a5-4270-bd69-2663a1f94715">
+
 Revenue Generated is showing wrong values
 <img width="959" alt="image" src="https://github.com/sophiarani-c/Hotel-Analysis-with-Python/assets/149110280/e7f30702-17df-40a9-a0cb-a5345b565f76">
 
