@@ -47,16 +47,27 @@ Creating a new column called Occupancy Percentage
 # Important Insights from the Dashboard
 
 1.Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, and Bangalore.
+
 2.Presidential rooms has the highest ratings(3.69) and premium has the lowest(3.59)
+
 3.Elite rooms have the highest revenue as well as higher booking and cancellation rates so we need to focus on those customers.
+
 4.Atliq Exotica has the highest revenue 320M and a rating of 3.62 and Atliq Seasons has the lowest.
+
 5.luxury recorded the highest revenue which is 1.05bn out of 1.71bn.
+
 6.May had the highest revenue 581.93m while June had the lowest 553.93m.
+
 7.Delhi generated the lowest revenue in terms of cities.
+
 8.Delhi has the highest occupancy % while Banglore has the lowest.
+
 9.presidential rooms have the highest occupancy % and elite rooms have the lowest.
+
 10.AtliQ Bay has the highest occupancy of 66%
+
 11.Although the DSRN is more for standard rooms the revenue is less which means we have more rooms but they are empty.
+
 12.June has the highest cancellation rate.
 
 
